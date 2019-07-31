@@ -5,7 +5,7 @@ import java.util.*;
 public class BinarySearch {
     public static void main(String[] args) {
         //create a sorted array
-        int arr[] = { 1, 5, 7, 8, 9, 11, 18, 19, 20, 25 };
+        int[] arr = { 1, 5, 7, 8, 9, 11, 18, 19, 20, 25 };
         Arrays.sort(arr);
 
         //determine a target to find in the list
